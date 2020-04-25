@@ -1,0 +1,8 @@
+{
+    "name": "vendor/khronus-framework-v3.0.2",
+    "author": "Valter dev@vsisolucoes.com.br",
+    "description": "Khronus Framework is a framework for ",
+    "require-dev": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
